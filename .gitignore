@@ -1,0 +1,9 @@
+# Raw export is 57 MB; download it from NYC Open Data (see data/raw/README.md)
+data/raw/*.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+.DS_Store
+.streamlit/secrets.toml
