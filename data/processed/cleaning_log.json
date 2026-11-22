@@ -1,0 +1,19 @@
+{
+  "raw_rows": 299944,
+  "dropped_placeholder_1899_rows": 48350,
+  "dropped_blank_rows": 119,
+  "dropped_exact_duplicates": 7113,
+  "duplicate_market_value_usd": 7106177.23,
+  "dropped_orphan_2015_rows": 1,
+  "fixed_groupt_trust_typo": 40994,
+  "clean_rows": 244361,
+  "fiscal_years": [
+    2017,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ]
+}
