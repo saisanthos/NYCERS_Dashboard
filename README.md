@@ -1,10 +1,12 @@
 # Where does an $87B pension fund put its money?
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nycers-dashboard.streamlit.app/)
+
 **An analysis of New York City Employees' Retirement System (NYCERS) holdings, FY2017 to FY2024, with an interactive dashboard.**
 
 NYCERS publishes every position it holds at each fiscal year-end (June 30): about 30,000 to 40,000 stocks, bonds, fund interests and cash lines per year. This project cleans seven of those snapshots into one tidy dataset, uses it to see how the fund's allocation and risk changed, and puts the results into a dashboard anyone can explore.
 
-**[Live dashboard](#run-it)** · **[Analysis notebook](notebooks/nycers_analysis.ipynb)** · **[Cleaning pipeline](src/nycers/clean.py)**
+**[Live dashboard](https://nycers-dashboard.streamlit.app/)** · **[Analysis notebook](notebooks/nycers_analysis.ipynb)** · **[Cleaning pipeline](src/nycers/clean.py)**
 
 ![Dashboard overview](reports/screenshots/dashboard_overview.png)
 
